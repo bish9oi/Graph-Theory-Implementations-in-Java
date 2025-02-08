@@ -40,43 +40,43 @@ cd Graph-Theory-Implementations-in-Java
 
   1️⃣ Breadth-First Search (BFS) 🧠
   
-  Time Complexity: O(V + E)
+  -Time Complexity: O(V + E)
        
-  Space Complexity: O(V)
+  -Space Complexity: O(V)
   
-  Concept: Explores the graph level by level starting from the source node.
+  *Concept*: Explores the graph level by level starting from the source node.
 
           
   2️⃣ Depth-First Search (DFS) 🔍
   
-  Time Complexity: O(V + E)
+  -Time Complexity: O(V + E)
   
-  Space Complexity: O(V)
+  -Space Complexity: O(V)
   
-  Concept: Explores the graph by going as deep as possible before backtracking.
+  *Concept*: Explores the graph by going as deep as possible before backtracking.
           
 3️⃣ Dijkstra’s Algorithm 🌐
 
-Time Complexity: O(E + V log V)
+-Time Complexity: O(E + V log V)
 
-Space Complexity: O(V)
+-Space Complexity: O(V)
 
-Concept: Finds the shortest path from a source node to all other nodes in a weighted graph.
+*Concept*: Finds the shortest path from a source node to all other nodes in a weighted graph.
 
 5️⃣ Kruskal’s Algorithm 🛠️
 
-Time Complexity: O(E log E)
+-Time Complexity: O(E log E)
 
-Space Complexity: O(V)
+-Space Complexity: O(V)
 
-Concept: Finds the Minimum Spanning Tree (MST) of a graph by sorting edges.
+*Concept*: Finds the Minimum Spanning Tree (MST) of a graph by sorting edges.
 
 6️⃣ Prim’s Algorithm 🌳
 
-Time Complexity: O(E log V)
+-Time Complexity: O(E log V)
 
-Space Complexity: O(V)
+-Space Complexity: O(V)
 
-Concept: Constructs a Minimum Spanning Tree (MST) by adding the shortest edge.
+*Concept*: Constructs a Minimum Spanning Tree (MST) by adding the shortest edge.
 
 
