@@ -39,7 +39,8 @@ cd Graph-Theory-Implementations-in-Java
 📊 Algorithms Explained
 
   1️⃣ Breadth-First Search (BFS) 🧠
-       Time Complexity: O(V + E)
+  
+  Time Complexity: O(V + E)
        
   Space Complexity: O(V)
   
@@ -47,25 +48,35 @@ cd Graph-Theory-Implementations-in-Java
 
           
   2️⃣ Depth-First Search (DFS) 🔍
-        Time Complexity: O(V + E)
-        Space Complexity: O(V)
-          Concept: Explores the graph by going as deep as possible before backtracking.
+  
+  Time Complexity: O(V + E)
+  
+  Space Complexity: O(V)
+  
+  Concept: Explores the graph by going as deep as possible before backtracking.
           
 3️⃣ Dijkstra’s Algorithm 🌐
+
 Time Complexity: O(E + V log V)
+
 Space Complexity: O(V)
+
 Concept: Finds the shortest path from a source node to all other nodes in a weighted graph.
-4️⃣ Bellman-Ford Algorithm 🚀
-Time Complexity: O(V * E)
-Space Complexity: O(V)
-Concept: Computes the shortest paths in a graph, handling negative edge weights.
+
 5️⃣ Kruskal’s Algorithm 🛠️
+
 Time Complexity: O(E log E)
+
 Space Complexity: O(V)
+
 Concept: Finds the Minimum Spanning Tree (MST) of a graph by sorting edges.
+
 6️⃣ Prim’s Algorithm 🌳
+
 Time Complexity: O(E log V)
+
 Space Complexity: O(V)
+
 Concept: Constructs a Minimum Spanning Tree (MST) by adding the shortest edge.
 
 
