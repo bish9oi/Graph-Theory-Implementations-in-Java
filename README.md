@@ -10,7 +10,6 @@ Welcome to the **Graph Theory Implementations in Java** repository! This project
   - **Depth-First Search (DFS)** 🔍
 - **Shortest Path Algorithms**:
   - **Dijkstra’s Algorithm** 🌐
-  - **Bellman-Ford Algorithm** 🚀
 - **Minimum Spanning Tree Algorithms**:
   - **Kruskal’s Algorithm** 🛠️
   - **Prim’s Algorithm** 🌳
@@ -38,14 +37,18 @@ cd Graph-Theory-Implementations-in-Java
 ```
 
 📊 Algorithms Explained
-1️⃣ Breadth-First Search (BFS) 🧠
-Time Complexity: O(V + E)
-Space Complexity: O(V)
-Concept: Explores the graph level by level starting from the source node.
-2️⃣ Depth-First Search (DFS) 🔍
-Time Complexity: O(V + E)
-Space Complexity: O(V)
-Concept: Explores the graph by going as deep as possible before backtracking.
+
+  1️⃣ Breadth-First Search (BFS) 🧠
+       Time Complexity: O(V + E)
+        Space Complexity: O(V)
+          Concept: Explores the graph level by level starting from the source node.
+
+          
+  2️⃣ Depth-First Search (DFS) 🔍
+        Time Complexity: O(V + E)
+        Space Complexity: O(V)
+          Concept: Explores the graph by going as deep as possible before backtracking.
+          
 3️⃣ Dijkstra’s Algorithm 🌐
 Time Complexity: O(E + V log V)
 Space Complexity: O(V)
