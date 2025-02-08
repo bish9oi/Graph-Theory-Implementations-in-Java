@@ -40,8 +40,10 @@ cd Graph-Theory-Implementations-in-Java
 
   1️⃣ Breadth-First Search (BFS) 🧠
        Time Complexity: O(V + E)
-        Space Complexity: O(V)
-          Concept: Explores the graph level by level starting from the source node.
+       
+  Space Complexity: O(V)
+  
+  Concept: Explores the graph level by level starting from the source node.
 
           
   2️⃣ Depth-First Search (DFS) 🔍
