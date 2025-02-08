@@ -83,10 +83,10 @@ cd Graph-Theory-Implementations-in-Java
 
 🎨 Visualizations & Demonstrations
 
--->Graph Traversals<--: Watch BFS and DFS algorithms explore graphs step-by-step.
+--Graph Traversals: Watch BFS and DFS algorithms explore graphs step-by-step.
 
--->Shortest Path:<-- Visualize how Dijkstra’s and Bellman-Ford find the shortest path in weighted graphs.
+--Shortest Path: Visualize how Dijkstra’s and Bellman-Ford find the shortest path in weighted graphs.
 
--->Minimum Spanning Trees:<-- Observe how Kruskal’s and Prim’s algorithms build MSTs by selecting edges with minimum weights.
+--Minimum Spanning Trees: Observe how Kruskal’s and Prim’s algorithms build MSTs by selecting edges with minimum weights.
 
 
