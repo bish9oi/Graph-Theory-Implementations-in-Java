@@ -80,3 +80,19 @@ cd Graph-Theory-Implementations-in-Java
 *Concept*: Constructs a Minimum Spanning Tree (MST) by adding the shortest edge.
 
 
+
+🎨 Visualizations & Demonstrations
+Graph Traversals: Watch BFS and DFS algorithms explore graphs step-by-step.
+Shortest Path: Visualize how Dijkstra’s and Bellman-Ford find the shortest path in weighted graphs.
+Minimum Spanning Trees: Observe how Kruskal’s and Prim’s algorithms build MSTs by selecting edges with minimum weights.
+
+
+🧑‍💻 How to Contribute
+We welcome contributions! Here’s how you can help improve this project:
+
+Fork the repository to your own GitHub account.
+Clone your fork to your local machine:
+
+git clone https://github.com/your-username/Graph-Theory-Implementations-in-Java.git
+
+
